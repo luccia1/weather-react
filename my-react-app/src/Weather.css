@@ -9,7 +9,7 @@
 
 }
 
-.weather h1{
+.Weather h1{
     font-size: 24px;
     font-weight: 100;
     margin: 20px 0 0 0;
@@ -27,7 +27,7 @@
     line-height: 19px;
     list-style: none;
   }
-  .weather img{
+  .Weather img{
     height: 64px;
     margin-right: 10px;
     display: inline-block;

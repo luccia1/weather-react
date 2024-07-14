@@ -13,7 +13,7 @@ function App() {
     <>
     <div className='app'>
       <div className='container'>
-        < Weather />
+        < Weather defaultCity="New York" />
     
     <footer>
       This projects was coded by <a href="#" targe="_blank">Lucy</a> and is {""} <a href="https://github.com/luccia1/weather-react target=-blank"> open-sourced on Github</a>
